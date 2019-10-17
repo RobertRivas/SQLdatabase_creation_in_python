@@ -1,0 +1,163 @@
+Students
+name
+text
+cwid
+integer
+age
+integer
+courseID
+integer
+gpa
+float
+
+
+Robert Rivas
+88992839
+35
+223p
+4.0
+Monica Valenzuela
+55466723
+31
+223p
+4.0
+1Robert Rivas
+88992839
+35
+223p
+4.0
+1Monica Valenzuela
+55466723
+31
+223p
+4.0
+2Robert Rivas
+88992839
+35
+223p
+4.0
+2Monica Valenzuela
+55466723
+31
+223p
+4.0
+3Robert Rivas
+88992839
+35
+223p
+4.0
+3Monica Valenzuela
+55466723
+31
+223p
+4.0
+4Robert Rivas
+88992839
+35
+223p
+4.0
+4Monica Valenzuela
+55466723
+31
+223p
+4.0
+5Robert Rivas
+88992839
+35
+223p
+4.0
+5Monica Valenzuela
+55466723
+31
+223p
+4.0
+6Robert Rivas
+88992839
+35
+223p
+4.0
+6Monica Valenzuela
+55466723
+31
+223p
+4.0
+7Robert Rivas
+88992839
+35
+223p
+4.0
+7Monica Valenzuela
+55466723
+31
+223p
+4.0
+8Robert Rivas
+88992839
+35
+223p
+4.0
+8Monica Valenzuela
+55466723
+31
+223p
+4.0
+9Robert Rivas
+88992839
+35
+223p
+4.0
+9Monica Valenzuela
+55466723
+31
+223p
+4.0
+aRobert Rivas
+88992839
+35
+223p
+4.0
+bMonica Valenzuela
+55466723
+31
+223p
+4.0
+cRobert Rivas
+88992839
+35
+223p
+4.0
+dMonica Valenzuela
+55466723
+31
+223p
+4.0
+eRobert Rivas
+88992839
+35
+223p
+4.0
+fMonica Valenzuela
+55466723
+31
+223p
+4.0
+gRobert Rivas
+88992839
+35
+223p
+4.0
+hMonica Valenzuela
+55466723
+31
+223p
+4.0
+iRobert Rivas
+88992839
+35
+223p
+4.0
+jMonica Valenzuela
+55466723
+31
+223p
+4.0
